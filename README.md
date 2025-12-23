@@ -1,4 +1,4 @@
-# qa-task-management-porto
+# QA-Task-Management-Porto
 Manual QA Testing Portfolio – PHP &amp; MySQL Project
 # QA Task Management – Manual Testing Portfolio
 
