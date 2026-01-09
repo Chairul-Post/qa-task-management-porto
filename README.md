@@ -1,5 +1,5 @@
-QA Task Management – Manual Testing Portfolio
-Project Overview
+QA Task Management – Portofolio Manual Testing
+Gambaran Proyek
 
-This project is a simple Task Management application created to practice Manual QA Testing.
-The focus of this portfolio is on writing Test Cases and Bug Reports for a basic web application.
+Proyek ini merupakan aplikasi Task Management sederhana yang digunakan sebagai media latihan Manual QA Testing.
+Fokus utama pengujian pada proyek ini adalah pembuatan Test Case dan Bug Report.
